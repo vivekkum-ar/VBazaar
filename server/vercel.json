@@ -6,7 +6,11 @@
             "use": "@vercel/node",
             "config": {
                 "includeFiles": [
-                    "dist/**"
+                 "models/**",
+          "controllers/**",
+          "routes/**",
+          "config/**",
+          "utils/**"
                 ]
             }
         }
