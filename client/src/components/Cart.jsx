@@ -205,5 +205,4 @@ useEffect(() => {
     ) : null
 }
 
-
 export default Cart
