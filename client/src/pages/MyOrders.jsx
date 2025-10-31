@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react'
 import { useAppContext } from '../context/AppContext'
-import { dummyOrders } from '../assets/assets'
 
 const MyOrders = () => {
  const [myOrders, setMyOrders] = useState([])
@@ -65,5 +64,6 @@ return (
     </div>
   )
 }
+
 
 export default MyOrders
