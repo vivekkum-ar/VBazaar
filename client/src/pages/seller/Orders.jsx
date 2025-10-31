@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { useAppContext } from "../../context/AppContext";
-import { dummyOrders } from "../../assets/assets";
 import toast from "react-hot-toast";
 
 const Orders = () => {
@@ -66,5 +65,6 @@ const Orders = () => {
         </div>
     );
 };
+
 
 export default Orders
