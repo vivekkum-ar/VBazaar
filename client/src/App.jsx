@@ -14,7 +14,7 @@ import MyOrders from "./pages/MyOrders.jsx";
 import SellerLogin from "./components/SellerLogin.jsx";
 import SellerLayout from "./pages/seller/SellerLayout.jsx";
 import AddProduct from "./pages/seller/AddProduct.jsx";
-import ProductList from "./pages/seller/productList.jsx";
+import ProductList from "./pages/seller/ProductList.jsx";
 import Orders from "./pages/seller/Orders.jsx";
 import Loading from "./components/Loading.jsx";
 const App = () => {
