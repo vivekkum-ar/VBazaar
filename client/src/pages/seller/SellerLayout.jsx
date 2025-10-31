@@ -1,6 +1,6 @@
 import { Link, NavLink, Outlet } from "react-router-dom";
 import { useAppContext } from "../../context/AppContext";
-import { assets } from "../../assets/assets";
+import { assets } from "../../assets/assets.js";
 import toast from "react-hot-toast";
 
 const SellerLayout = () => {
