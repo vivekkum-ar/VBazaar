@@ -1,7 +1,7 @@
 import React from 'react'
 import { useAppContext } from '../context/AppContext'
 import { useParams } from 'react-router-dom';
-import { categories } from '../assets/assets';
+import { categories } from '../assets/assets.js';
 import ProductCard from '../components/ProductCard';
 
 const ProductCategory = () => {
