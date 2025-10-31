@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { assets } from "../assets/assets.js";
 import { useAppContext } from "../context/AppContext";
 
 const ProductCard = ({ product }) => {
